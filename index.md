@@ -1,3 +1,7 @@
+---
+layout: default
+title: Om Singh
+---
 
 # Data Scientist
 
