@@ -1,9 +1,3 @@
-<img src="/assets/img/image.png" alt="Profile Photo" width="150" align="left" style="margin-right: 20px;" />
-
-# **Om Singh**
-_Example data science portfolio_
-
-
 
 # Data Scientist
 
