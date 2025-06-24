@@ -3,7 +3,7 @@ layout: default
 title: Om Singh
 ---
 
-# Data Scientist
+# D
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
